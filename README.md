@@ -21,6 +21,7 @@ With this notebook we have analyzed 3 different json files available via kaggle
 
 ## 🛠 Libraries worked upon
 
+- Numpy
 - Pandas
 - Matplotlib
 - Seaborn 
