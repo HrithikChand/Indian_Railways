@@ -13,7 +13,7 @@ A casual walkthrough through datasets consisting information about trains and st
 
 Indian Railways is one of the largest railway networks operated by the Government of India. Railways was first introduced in India in 1853. Today, its operations cover 28 states and 8 union territories. It is also one of the busiest rail networks in the world, carrying about 18 million passengers daily.
 
-With this notebook we have 3 different json files 
+With this notebook we have analyzed 3 different json files available via kaggle
 
 - `stations.json` to know about the different stations present in this big network.
 - `trains.json` have information about all the trains running currently.
